@@ -42,13 +42,24 @@ python3 recon.py example.com
 Outputs will be saved in a folder named recon-example.com/ with multiple files such as:
 
 example.com/
+
 ├── whois.txt
+
 ├── dig.txt
+
 ├── host-mx.txt
+
 ├── host-txt.txt
+
 ├── amass.txt
+
 ├── subfinder.txt
+
 ├── crtsh.txt
+
 ├── wayback.txt
+
 ├── shodan.json
+
 ├── github.json
+
